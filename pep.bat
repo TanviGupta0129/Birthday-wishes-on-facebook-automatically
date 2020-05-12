@@ -1,0 +1,1 @@
+node bday.js "credentials.json" "https://www.facebook.com/events/birthdays/"
